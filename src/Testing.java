@@ -61,5 +61,6 @@ public class Testing {
 		{
 			System.out.println("String entered is not a Pallindrome string: "+palliStr);
 		}
+		System.out.println("this is been viewd in GITHUB");
 	}
 }
